@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Junk Dealer</string>
+    <!--    <string name="app_name">ModernLogin</string>-->
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="title_location_permission">Location Permission Not granted</string>
+    <string name="text_location_permission">Allow app to access your location</string>
+    <string name="ok">Ok</string>
+    <!--    <string name="default_web_client_id">558755377206-s5k4ol9ekjk273r8olp1173p3lch6qal.apps.googleusercontent.com</string>-->
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:backgroundTint="#000"
+    tools:context=".Splash"></android.support.constraint.ConstraintLayout>
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:orientation="vertical" android:layout_width="fill_parent"-->
+<!--    android:layout_height="fill_parent"-->
+<!--    android:layout_gravity="center"-->
+<!--    android:gravity="center"-->
+<!--    android:background="@drawable/splash">-->
+
+<!--&lt;!&ndash;    <ImageView android:id="@+id/splashscreen" android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="fill_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:src="@drawable/customer_icon"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_gravity="center"/>&ndash;&gt;-->
+
+<!--    <TextView android:layout_width="fill_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Junk O' Scrap"-->
+<!--        android:textSize="50sp"-->
+<!--        android:gravity="center"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textColor="#fff"/>-->
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#fff"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_marginTop="100dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="35dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textStyle="bold"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="Let's Join Hands...\nTo Make It A Better World"/>&ndash;&gt;-->
+
+<!--</LinearLayout>-->
