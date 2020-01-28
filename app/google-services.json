@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:558755377206:android:767d049cf136bc92786897",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558755377206-d9mi3udsoa1k78cmnl8h7j6kght6ofhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin",
+            "certificate_hash": "238d1e8b36bd1b17b6ac3e1d1ef6f77b4ea4a7df"
+          }
+        },
+        {
+          "client_id": "558755377206-s00sjhn0ev6vsqv4fonfnuhuuvasm3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwr461Rgxe4UX4R9b1WusjiYjI98YdsJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558755377206-s5k4ol9ekjk273r8olp1173p3lch6qal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:558755377206:android:be574bb4cfb43a2c786897",
         "android_client_info": {
           "package_name": "com.example.customer"
@@ -56,6 +93,43 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.junkdealer",
+            "certificate_hash": "238d1e8b36bd1b17b6ac3e1d1ef6f77b4ea4a7df"
+          }
+        },
+        {
+          "client_id": "558755377206-s00sjhn0ev6vsqv4fonfnuhuuvasm3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwr461Rgxe4UX4R9b1WusjiYjI98YdsJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558755377206-s5k4ol9ekjk273r8olp1173p3lch6qal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558755377206:android:0f28f7211d825dab786897",
+        "android_client_info": {
+          "package_name": "com.example.recyclingindustry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558755377206-ip6dd489ru18u0rqqn6av9b1tstl0eg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recyclingindustry",
             "certificate_hash": "238d1e8b36bd1b17b6ac3e1d1ef6f77b4ea4a7df"
           }
         },

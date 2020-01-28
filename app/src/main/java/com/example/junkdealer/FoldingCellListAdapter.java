@@ -98,8 +98,10 @@ public class FoldingCellListAdapter extends ArrayAdapter<Waste> {
                 @Override
                 public void onClick(View view) {
 //                    Toast.makeText(mContext,"Clicked at pos"+position,Toast.LENGTH_SHORT).show();
-                    if(updatePickStatus(userIds.get(position),wastes.get(position))==true)
+                    if(updatePickStatus(userIds.get(position),wastes.get(position))==true) {
                         viewHolder.pickedB.setText("Picked");
+                        viewHolder.pickedT.setText("Picked");
+                    }
                     else
                         Toast.makeText(mContext,"Failed to pick junk\nPlease try again later",Toast.LENGTH_SHORT).show();
                 }

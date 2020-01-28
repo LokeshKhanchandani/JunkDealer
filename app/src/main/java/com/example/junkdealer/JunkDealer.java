@@ -16,6 +16,6 @@ public class JunkDealer implements Serializable {
         this.picked=picked;
         this.city=city;
         if(city==null)
-            this.city="Lucknow";
+            this.city="Agra";
     }
 }
